@@ -1,0 +1,2 @@
+# TEDI
+OpenGL C++ project
